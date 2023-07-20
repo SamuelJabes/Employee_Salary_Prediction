@@ -1,1 +1,3 @@
-# Employee_Salary_Prediction
+# Thapar Summer School - Employee Salary Prediction
+
+This Kaggle contest focuses on prediction of salaries of employees from different fake companies. The dataset includes various details about the employees, which is useful for research and analysis. It is not real data; it has been created to resemble real data. It provides a lifelike representation of employee data without compromising privacy or using real personal information.
